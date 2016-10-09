@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Action Bar-->
+    <string name="todosLV">Todas</string>
+    <string name="diaLV">Dia</string>
+    <string name="semanaLV">Semana</string>
+    <string name="mesLV">Mês</string>
+    
+    <!-- Mensagens para os AlertDialog -->
+    <string name="msgTitulo">A tarefa precisa de um título</string>
+    <string name="msgInicio">A data inicial deve ser menor que a final</string>
+    <string name="avisoApagar">Lembre-se: esta operação não poderá ser desfeita.</string>
+
+    <!-- Yes/No -->
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <!-- Menu de Contexto -->
+    <string name="cmTitulo">Escolha uma ação</string>
+
+    <!-- Application name -->
+    <string name="app_name">Agenda</string>
+
+    <!-- Títulos das Atividades -->
+    <string name="addTarefa">Adicionar tarefa</string>
+    <string name="editarTarefa">Editar tarefa</string>
+
+    <!-- TextView-->
+    <string name="procurar">Procurar</string>
+    <string name="inicio">Inicio: </string>
+    <string name="termino">Término: </string>
+    <string name="labelLocal">Local: </string>
+    <string name="labelTitulo">Título: </string>
+    <string name="labelObs">Observações: </string>
+    <string name="labelData">Data:</string>
+    <string name="labelHora">Hora:</string>
+    
+    <!-- Menu de Contexto -->
+    <string name="edit">Editar</string>
+    <string name="delete">Deletar</string>
+
+    <!-- Tempo de Notificação -->
+    <string-array name="notificacoes_tmp">
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 dia</item>
+   </string-array>
+
+    <!-- ActionBar Editar -->
+    <string name="lbCancelar">Cancelar</string>
+    <string name="lbSalvar">Salvar</string>
+    <string name="lbRemover">Remover</string>
+
+
+</resources>
